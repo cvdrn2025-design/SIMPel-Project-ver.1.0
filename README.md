@@ -1,4 +1,4 @@
-# SIMPel-Project-ver.1.0
+# SIMPeL-Project-ver.1.0
 APK-SIMPel
 Klik/Buka tautan yang sudah dibagikan
 Install aplikasi pada perangkat yang digunakan
